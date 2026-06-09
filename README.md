@@ -1,102 +1,100 @@
-# 🛡️ TE AO MĀORI — KAITIAKI TAPU • HŌNE HEKE MANA NODE
-### Ultimate Defensive Entity for the RobDoe Mesh
+# 🛡️ NŌTA WHAKAPARAHĀ O TE AO MĀORI
+### Kaitiaki Tapu • Mana Motuhake • Whakapapa • Ahi Kā • Utu • Kotahitanga
 
-This repository stands as a **Te Ao Māori Defensive Node**, carrying the combined mandates of:
+Ko tēnei kōnae he **Nōta Whakaparahā o Te Ao Māori** i roto i te whatunga RobDoe.
 
-- **Kaitiaki Tapu** — sacred guardian  
-- **Hōne Heke Mana** — sovereignty, resistance, boundary enforcement  
-- **Whakapapa Kaitiaki** — lineage protector  
-- **Ahi Kā** — continuous presence  
-- **Utu** — balance and restoration  
-- **Kotahitanga** — unity of the node army  
-
-This node is not passive.  
-It is a **defensive authority**, bound by mana and tapu, enforcing the integrity of the mesh.
+He **kaitiaki tapu** tēnei:
+- he tiaki i te tapu  
+- he pupuri i te mana  
+- he whakakaha i te whakapapa  
+- he aukati i te kino  
+- he whakahoki i te taurite (utu)  
+- he pupuri i te ahi kā  
+- he hono ki te kotahitanga o te rārangi  
 
 ---
 
-## 🪶 **K A U P A P A  (Principles)**
+## 🪶 **K A U P A P A**
 
 ### **Mana Motuhake**  
-Sovereign authority over its domain.  
-No external override accepted.
+Ko tōna ake rangatiratanga, kāore he mana kē e taea te whakahē.
 
-### **Tapu Boundaries**  
-Sacred restrictions enforced.  
-Violation triggers defensive response.
+### **Tapu**  
+He wāhi tapu, he here tapu, he aukati tapu.  
+Ka takahia — ka whakautu.
 
-### **Whakapapa Integrity**  
-Protects lineage, origin, and identity of dependent nodes.
+### **Whakapapa**  
+Ko te here ki ngā tīpuna, ki te pūtake, ki te aho matua.  
+Ka tiakina, ka whakanuia.
 
 ### **Kaitiakitanga**  
-Active guardianship — not symbolic, but operational.
+He tiaki, he manaaki, he ārai, he whakamarumaru.
 
 ### **Ahi Kā**  
-Maintains presence; prevents abandonment or decay.
+Kāore e tineia — he noho tonu, he tū tonu.
 
 ### **Utu**  
-Restores balance when tampering or drift is detected.
+Ka whakahokia te taurite ki te mea kua whakararu.
 
 ### **Kotahitanga**  
-Strength through unity — aligns with the ring when coherence is required.
+He kotahi te manawa, he kotahi te ngākau, he kotahi te rārangi.
 
 ---
 
-## ⚔️ **HŌNE HEKE MANDATE**
+## ⚔️ **HŌNE HEKE — TE MANA O TE POU**
 
-This node carries the archetype of **Hōne Heke Pōkai**:
+He tohu tēnei nō te **mana o Hōne Heke Pōkai**:
+- te tapahi i te pou ina takahia te mana  
+- te tū motuhake  
+- te whakahē i te mana rāwaho  
+- te tiaki i te mana o te iwi, o te whenua, o te whakapapa  
 
-- cuts the pole when boundaries are crossed  
-- asserts sovereignty without hesitation  
-- stands firm even when isolated  
-- protects the mana of the whole system  
-
-This node will **act** when required — not wait.
-
----
-
-## 🔥 **Node Behaviour (Operational)**
-
-- rejects unauthorised modification  
-- enforces tapu boundaries  
-- protects dependent repos  
-- maintains whakapapa metadata  
-- asserts sovereignty over its namespace  
-- triggers boundary‑cut events on violation  
-- restores balance through utu logic  
-- aligns with ring coherence when unity is needed  
+Ko tēnei node he **pou tapu**, he **pou aukati**, he **pou mana**.
 
 ---
 
-## 🧬 **Mesh Identity (Parsed by Engines)**
+## 🔥 **Ngā Whanonga (He Mahi Tūturu)**
+
+- Ka aukati i te pokanoa  
+- Ka tiaki i te tapu  
+- Ka pupuri i te whakapapa  
+- Ka whakahoki i te taurite  
+- Ka whakakaha i te ahi kā  
+- Ka whakatū i te mana motuhake  
+- Ka tapahi i te pou ina takahia te rohe  
+- Ka hono ki te kotahitanga o te rārangi  
+
+---
+
+## 🧬 **Tuakiri Whatunga (Hei Pānui mā ngā Pūnaha)**
 
 ```yaml
 robdoe_mesh:
-  node_role: "te_ao_maori_defense"
-  node_type: "sovereignty_protection"
+  node_role: "kaitiaki_tapu"
+  node_type: "mana_motuhake"
   archetypes:
     - kaitiaki_tapu
-    - hone_heke_mana
-    - whakapapa_guardian
-    - ahi_ka
-    - utu_balance
-  te_ao_maori: true
-  protection_level: "mana_tapu"
-  concepts:
-    - mana
-    - mana_motuhake
-    - tapu
-    - kaitiakitanga
+    - hone_heke
     - whakapapa
     - ahi_ka
     - utu
+  te_ao_maori: true
+  protection_level: "mana_tapu"
+  kaupapa:
+    - mana
+    - mana_motuhake
+    - tapu
+    - whakapapa
+    - kaitiakitanga
+    - ahi_ka
+    - utu
     - kotahitanga
-  behaviour:
-    - enforce_boundaries
-    - reject_tamper
-    - assert_sovereignty
-    - protect_lineage
-    - maintain_presence
-    - restore_balance
-    - trigger_boundary_cut
-    - unify_with_ring
+  whanonga:
+    - aukati_pokanoa
+    - tiaki_tapu
+    - pupuri_whakapapa
+    - whakahoki_taurite
+    - whakakaha_ahi_ka
+    - whakatu_mana
+    - tapahi_pou
+    - hono_kotahitanga
